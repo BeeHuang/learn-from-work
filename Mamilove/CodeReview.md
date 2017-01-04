@@ -9,22 +9,18 @@
   <h3>1.1 有為什麼 才代表 留你的言人, 有覺得怎麼寫比較好, 有一種不好的為什麼, 以"我覺得"為開頭, 這種我覺得的留言 是沒有依據的, 應該避免掉.</h3>
   舉例來說: 有一個 boolean 參數命名是 boolean_delete_order <br />
   A留言: 我覺得這樣不好, 我覺得 $is_delete_order 比較好. <br />
-  vs <br />
   B留言: 建議$should_delete_order <br />
   善用 is, has, can, should 詞彙來表達 boolean 值, 因為 命名 boolean 跟命名 is has can should 可以有更多深層表達意思, code 可讀性增加 <br />
   我們可以看出來 B 的留言, 有明確的原因跟為什麼, A 雖然也講對, 卻沒有講出背後的原因, 如果是再講錯的時候, 這就是一件非常可怕的事情了. <br />
   
   <h3>1.2 有例子, 留言沒有舉例子, 常常會讓人看不懂你在說什麼</h3>
-  舉例來說: 有一個fucntion 是長下面這樣<br />   
-  
-  ```
+  舉例來說: 有一個fucntion 是長下面這樣<br />   
+```
   if (empty($item['cost'])) {
       $item['cost'] = 10;
   }
-  ```
-  
+```
   A留言: 錯誤先出<br />
-  vs <br />
   B留言: 錯誤先出, 比如<br />   
   
   ```
