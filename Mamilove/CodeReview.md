@@ -9,6 +9,7 @@
   <h3>1.1 有為什麼 才代表 留你的言人, 有覺得怎麼寫比較好, 有一種不好的為什麼, 以"我覺得"為開頭, 這種我覺得的留言 是沒有依據的, 應該避免掉.</h3><br /> 
   舉例來說: 有一個 boolean 參數命名是 boolean_delete_order <br />
   A留言: 我覺得這樣不好, 我覺得 $is_delete_order 比較好. <br />
+  vs
   B留言: 建議$should_delete_order <br />
   善用 is, has, can, should 詞彙來表達 boolean 值, 因為 命名 boolean 跟命名 is has can should 可以有更多深層表達意思, 
   code <br />
@@ -22,6 +23,7 @@
   }
 ```
   A留言: 錯誤先出<br />
+  vs
   B留言: 錯誤先出, 比如<br />
   ```
   if (!empty($item['cost']) {
@@ -33,10 +35,10 @@
   
 
 
-2 留言到底要不要改? <br />
+<h2>2 留言到底要不要改? <br /> </h2>
   有時候被留言了, 不知道這個留言到底是不是一定要改? 比如留了 這樣會比較好嗎? 我覺得哪一個比較好.
   
-3 留了言 卻沒有說服力 <br />   
+<h2>3 留了言 卻沒有說服力 <br /> </h2>
 一般留言 "有正常的" 邏輯的時候, 都是能說服對方的, 比如說 edit_number 改成 decrease_number 會比較好表達是要減少的 數量 <br />   
 But 當留言是涉及 "另一項專業"的時候, 比如英文單字 該怎麼拼, 比如 work_total_minutes or total_work_minutes <br />         
 如果只說 因為唸起來比較順, 我覺得會讓被 review 的人, 不知道這個可靠度如何(當然如果你說 多益閱讀 430 分, 或許比對方高, 能讓對方感覺比較有說服力) <br />
