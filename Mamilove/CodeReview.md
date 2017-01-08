@@ -66,7 +66,8 @@ But 當留言是涉及 "另一項專業"的時候, 比如英文單字 該怎麼�
 
 <h1>三. 如何讓 Review 更快!</h1>
 <h2>Review 更快-1 coding style 請跟大家一樣</h2>     
-目的是為了讓看 code 更順暢.
-<h2>Review 更快-2 跟 partner 持續溝通</h2>   
-
-<h2>Review 更快-3 養成 幫別人 review 習慣 </h2>     
+目的是為了讓看 code 更順暢.<br /><br />
+<h2>Review 更快-2 根據資源調整, review code 的人數</h2>      
+適當的資源調配, 是一個管理者要做的功課, 當人數不足時, 要控管 review 同一隻 code 的人數, 在小型團隊(7 人), 2 人 review code 即可.<br /><br />
+<h2>Review 更快-3 養成看 code 習慣 </h2>     
+當大家都養成習慣, 幫助別人也是幫助自己, 是一個正向的循環.
