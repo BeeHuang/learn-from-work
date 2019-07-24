@@ -13,7 +13,7 @@
 
 6 在5楼, 没电梯
 
-7 室友女性一名, 愛乾淨 (也要找乾淨的室友), 好相處
+7 室友女性一名, 愛乾淨 (也要找乾淨的室友), 好相處 脾氣好
 
 <p align="center">
   <img src="https://github.com/BeeHuang/learn-from-work/blob/master/rent_1.jpg">
