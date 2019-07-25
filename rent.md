@@ -18,8 +18,6 @@
 
 8 室友女性一名, 愛乾淨 (也要找乾淨的室友), 好相處 脾氣好
 
-9 微信id: beehuang1203. 备注请说是要看房的~
-
 <p align="center">
   <img src="https://github.com/BeeHuang/learn-from-work/blob/master/rent_1.jpg">
 </p>
@@ -44,3 +42,4 @@
   <img src="https://github.com/BeeHuang/learn-from-work/blob/master/rent_6.jpg">
 </p>
 
+9 微信id: beehuang1203. 备注请说是要看房的~
